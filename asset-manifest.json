@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/106joshman/counter.git/static/css/main.e056c51c.chunk.css",
+    "main.js": "/106joshman/counter.git/static/js/main.3016b717.chunk.js",
+    "main.js.map": "/106joshman/counter.git/static/js/main.3016b717.chunk.js.map",
+    "runtime-main.js": "/106joshman/counter.git/static/js/runtime-main.09ef80ad.js",
+    "runtime-main.js.map": "/106joshman/counter.git/static/js/runtime-main.09ef80ad.js.map",
+    "static/js/2.d316ce07.chunk.js": "/106joshman/counter.git/static/js/2.d316ce07.chunk.js",
+    "static/js/2.d316ce07.chunk.js.map": "/106joshman/counter.git/static/js/2.d316ce07.chunk.js.map",
+    "index.html": "/106joshman/counter.git/index.html",
+    "static/css/main.e056c51c.chunk.css.map": "/106joshman/counter.git/static/css/main.e056c51c.chunk.css.map",
+    "static/js/2.d316ce07.chunk.js.LICENSE.txt": "/106joshman/counter.git/static/js/2.d316ce07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ef80ad.js",
+    "static/js/2.d316ce07.chunk.js",
+    "static/css/main.e056c51c.chunk.css",
+    "static/js/main.3016b717.chunk.js"
+  ]
+}
