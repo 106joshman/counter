@@ -1,6 +1,5 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
-import ReactDOM from 'react-dom';
 
 const Home = () => {
     const [count, setCount] = useState(120);
